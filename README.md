@@ -27,7 +27,7 @@ This Tableau dashboard provides an insightful analysis of British Airways custom
 - **Value for Money:** 2.8
 
 ## Usage:
-This dashboard helps visualize British Airways' performance and allows users to filter and interact with the data to uncover insights specific to different travel conditions and customer experiences.
+This dashboard helps visualize British Airways performance and allows users to filter and interact with the data to uncover insights specific to different travel conditions and customer experiences.
 
 ## How to Use:
 1. Select the desired filters to narrow down the analysis based on your interest.
