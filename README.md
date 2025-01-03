@@ -2,7 +2,7 @@
 
 This Tableau dashboard provides an insightful analysis of British Airways customer reviews, focusing on overall ratings, services, and comfort. It allows users to explore data through various metrics and filters, offering a comprehensive view of customer satisfaction across different dimensions.
 
-[British Airways Tableau Dashboard]([https://github.com/Meghana157/British-Airways-Review-Analysis/blob/main/British%20Airways-%20Project.twb](https://github.com/Meghana157/British-Airways-Review-Analysis/blob/main/British_airways.png)
+[British Airways Tableau Dashboard]([https://github.com/Meghana157/British-Airways-Review-Analysis/blob/main/British%20Airways-%20Project.twb](https://github.com/Meghana157/British-Airways-Review-Analysis/blob/main/British_airways.png))
 
 ## Key Features:
 - **Charts:**
